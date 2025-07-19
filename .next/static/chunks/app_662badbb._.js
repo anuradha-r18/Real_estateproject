@@ -1069,12 +1069,12 @@ __turbopack_context__.s({
 const mockProperties = [
     {
         id: 1,
-        image: '/images/pexels-expect-best-79873-323780 (1).jpg',
-        alt: 'Luxury Villa in Pune',
+        image: '/images/SchmittleinFacade.jpeg',
+        alt: 'Luxury Villa in Mumbai',
         type: 'Villa',
         status: 'For Sale',
-        title: 'Spacious Luxury Villa in Koregaon Park',
-        location: 'Pune',
+        title: 'Spacious Luxury Villa in  Bandra',
+        location: 'Bandra, Mumbai',
         beds: 5,
         baths: 4,
         sqft: '6500',
@@ -1083,7 +1083,7 @@ const mockProperties = [
     },
     {
         id: 2,
-        image: '/images/image copy 6.png',
+        image: '/images/760x470xc.webp',
         alt: 'High-Rise Apartment in Mumbai',
         type: 'Apartment',
         status: 'For Sale',
@@ -1097,7 +1097,7 @@ const mockProperties = [
     },
     {
         id: 3,
-        image: '/images/image copy 10.png',
+        image: '/images/Towles-Court-in-Sarasota-Homes-for-Sale-4.jpg',
         alt: 'Modern Condo in Delhi',
         type: 'Condo',
         status: 'For Rent',
@@ -1125,7 +1125,7 @@ const mockProperties = [
     },
     {
         id: 5,
-        image: '/images/image copy 10.png',
+        image: '/images/GRADEBALDWIN15FINAL.1506068287.7175.webp',
         alt: 'Luxurious Penthouse in Pune',
         type: 'Penthouse',
         status: 'For Sale',
@@ -1139,21 +1139,21 @@ const mockProperties = [
     },
     {
         id: 6,
-        image: '/images/image copy 7.png',
-        alt: 'Compact Studio in Mumbai',
-        type: 'Studio',
+        image: '/images/Traditional-houses-in-Kerala-modern.jpg',
+        alt: 'Spacious House in Thrissur',
+        type: 'House',
         status: 'For Rent',
-        title: 'Compact Studio Apartment in Andheri',
-        location: 'Mumbai',
-        beds: 1,
-        baths: 1,
-        sqft: '450',
-        price: '25,000 / month',
+        title: 'House in Thrissur',
+        location: 'Thrissur',
+        beds: 7,
+        baths: 8,
+        sqft: '800',
+        price: '150,000 / month',
         purchaseType: 'Rent'
     },
     {
         id: 7,
-        image: '/images/image copy 8.png',
+        image: '/images/french-2.jpg',
         alt: 'Sprawling Farmhouse in Delhi',
         type: 'Farmhouse',
         status: 'For Sale',
@@ -1167,7 +1167,7 @@ const mockProperties = [
     },
     {
         id: 8,
-        image: '/images/image copy 6.png',
+        image: '/images/760x470xc (1).webp',
         alt: 'Contemporary Villa in Bangalore',
         type: 'Villa',
         status: 'For Sale',
@@ -1181,7 +1181,7 @@ const mockProperties = [
     },
     {
         id: 9,
-        image: '/images/image copy 9.png',
+        image: '/images/Raffles-Park-2.jpg',
         alt: 'Commercial Office Space in Pune',
         type: 'Office Space',
         status: 'For Rent',
@@ -1195,7 +1195,7 @@ const mockProperties = [
     },
     {
         id: 10,
-        image: '/images/image copy 10.png',
+        image: '/images/Free-Awesome-House-Map-in-Pakistan-for-Large-House-feature.webp',
         alt: 'Compact 2BHK in Mumbai',
         type: 'Apartment',
         status: 'For Sale',
@@ -1209,12 +1209,12 @@ const mockProperties = [
     },
     {
         id: 11,
-        image: '/images/image copy 8.png',
-        alt: 'Independent House in Delhi',
+        image: '/images/contemporary-houses-kerala.jpg',
+        alt: 'House in Kerala',
         type: 'Independent House',
         status: 'For Sale',
-        title: 'Spacious 3BHK Independent House in Dwarka',
-        location: 'Delhi',
+        title: '4BHK Independent House in Kerala',
+        location: 'Kerala',
         beds: 3,
         baths: 3,
         sqft: '2500',
@@ -1223,12 +1223,12 @@ const mockProperties = [
     },
     {
         id: 12,
-        image: '/images/image copy 9.png',
-        alt: 'Townhouse in Bangalore Gated Community',
+        image: '/images/images.jpeg',
+        alt: 'Townhouse in Mumbai Gated Community',
         type: 'Townhouse',
         status: 'For Sale',
-        title: 'Designer Townhouse in Gated Community',
-        location: 'Bangalore',
+        title: 'Sleek Living in a Gated Setting.',
+        location: 'Mumbai',
         beds: 4,
         baths: 4,
         sqft: '3800',
@@ -1327,7 +1327,7 @@ function Properties() {
                 children: [
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
                         className: " text-5xl font-extrabold text-center text-black  mb-4",
-                        children: "Find Your Ideal Property"
+                        children: "Unlock Your Next Address"
                     }, void 0, false, {
                         fileName: "[project]/app/components/Properties/properties.js",
                         lineNumber: 58,
@@ -1342,7 +1342,7 @@ function Properties() {
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                         className: "text-gray-500 text-center text-xl",
-                        children: "Discover a curated collection of premium properties"
+                        children: "Discover a curated selection of luxury homes, made to match your style"
                     }, void 0, false, {
                         fileName: "[project]/app/components/Properties/properties.js",
                         lineNumber: 60,

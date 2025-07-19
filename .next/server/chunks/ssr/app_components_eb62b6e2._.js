@@ -1064,44 +1064,44 @@ function Blogpage() {
     const blogPosts = [
         {
             id: 1,
-            title: "5 Tips for First-Time Home Buyers in Today's Market",
-            description: "A home inspection is a crucial step in the buying process. Learn what to expect and how to prepare for it.",
-            image: "/images/image copy 6.png",
+            title: "Tips for First-Time Home Buyers in Today's Market",
+            description: "A vital check before buying—spot hidden issues, avoid regrets, and buy smart.",
+            image: "/images/760x470xc.webp",
             category: "Home Buying"
         },
         {
             id: 2,
-            title: "Real Estate Investment Strategies for Beginners",
-            description: "Learn about different real estate investment approaches that are suitable for beginners, from rental properties to REITs.",
-            image: "/images/pexels-olivernt-3786322.jpg",
+            title: "Beginner’s Guide to Real Estate Investing",
+            description: "Start smart. From rental properties to REITs, learn low-risk strategies, build steady cash flow, and grow wealth one brick at a time.",
+            image: "/images/contemporary-houses-kerala.jpg",
             category: "Investment"
         },
         {
             id: 3,
             title: "Understanding the Home Inspection Process",
             description: "A home inspection is a crucial step in the buying process. Learn what to expect and how to prepare for it.",
-            image: "/images/pexels-talalih-4948973.jpg",
+            image: "/images/exterior-design-for-house_0_1200.jpg.webp",
             category: "Home Buying"
         },
         {
             id: 4,
-            title: "The Benefits of Living in a Smart Home",
-            description: "Discover how smart home technology can enhance your living experience, from energy efficiency to security.",
-            image: "/images/pexels-expect-best-79873-323780 (1).jpg",
+            title: "The Modern Comforts of a Smart Home",
+            description: "Discover how smart home tech upgrades your lifestyle—from saving energy to boosting security, comfort, and convenience at every turn.",
+            image: "/images/images (1).jpeg",
             category: "Smart Home"
         },
         {
             id: 5,
-            title: "Top 10 Neighborhoods to Buy a Home in 2023",
-            description: "Explore the best neighborhoods for homebuyers in 2023, considering factors like affordability, amenities, and community.",
-            image: "/images/pexels-pixabay-302769.jpg",
+            title: "Top Neighborhoods to Buy a Home in 2025",
+            description: "Explore the best neighborhoods for homebuyers in 2025, considering factors like amenities, community and affordability.",
+            image: "/images/f7195ad7ff679c6e807d3b28ebe67baf-p_e.jpg",
             category: "Neighborhoods"
         },
         {
             id: 6,
             title: "How to Stage Your Home for a Quick Sale",
             description: "Staging your home can significantly impact its sale. Learn effective staging tips to attract potential buyers.",
-            image: "/images/pexels-binyaminmellish-106399.jpg",
+            image: "/images/French-architecture-style-in-Pakistani-house-designs.webp",
             category: "Home Selling"
         }
     ];
@@ -1153,7 +1153,7 @@ function Blogpage() {
                             className: "relative",
                             children: [
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
-                                    src: "/images/image copy 12.png",
+                                    src: "/images/zpbb0umxc9yidwlufh5h.avif",
                                     alt: "Vision",
                                     className: "w-full h-[750px] object-cover rounded-2xl mb-6"
                                 }, void 0, false, {
@@ -1174,19 +1174,19 @@ function Blogpage() {
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                             className: "text-2xl md:text-4xl lg:text-5xl font-bold leading-tight max-w-2xl mb-6",
                                             children: [
-                                                "Buying a home is one of the biggest decisions you'll ever make.",
+                                                "It’s one of life’s biggest moves—full of dreams, decisions, and details.",
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                                     fileName: "[project]/app/components/Blog/blogpage.js",
                                                     lineNumber: 85,
                                                     columnNumber: 15
                                                 }, this),
-                                                "From setting a budget to choosing the right neighborhood,",
+                                                "From budgeting wisely to picking the perfect neighborhood,",
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                                     fileName: "[project]/app/components/Blog/blogpage.js",
                                                     lineNumber: 87,
                                                     columnNumber: 15
                                                 }, this),
-                                                "here's everything you need to know to make the right choice."
+                                                "here’s your go-to guide to making a choice you’ll never regret."
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/app/components/Blog/blogpage.js",

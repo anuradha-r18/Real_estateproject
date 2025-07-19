@@ -2,7 +2,7 @@
 
 import React from 'react';
 import Link from 'next/link';
-import { Target, Eye ,Shield, CircleCheckBig, Clock, Linkedin, Twitter, Instagram , Home, Globe, Headphones, List } from 'lucide-react';
+import { Target, Eye ,Shield, CircleCheckBig, Clock, Linkedin, Twitter, Instagram , Home, Globe, Headphones, List, EyeClosed } from 'lucide-react';
 import Footer from '../homepage/Footer';
 import Navbar from '../homepage/Navbar';
 
@@ -76,10 +76,10 @@ function TestPage() {
               <h3 className="text-2xl font-bold text-black">Our Mission</h3>
               </div>
               <p className="text-gray-600 leading-relaxed">
-              We're on a mission to reinvent renting—no fluff, no confusion, just realness.
-              Our platform puts the power back in your hands, with crystal-clear info, tools
-              that just get you, and support that actually supports.Because finding a home 
-              shouldn’t feel like a hustle—it should feel like coming home.
+              We’re here to flip the script on renting—no jargon, no games, just straight-up clarity.
+               Our platform hands you the keys (literally and figuratively) with transparent info, 
+               tools that vibe with your flow, and help that actually helps. Because finding a place to live
+               shouldn’t feel like a maze—it should feel like you’ve finally arrived
               </p>
 
           </div>
@@ -91,7 +91,7 @@ function TestPage() {
               <h3 className="text-2xl font-bold text-black">Our Vision</h3>
             </div>
             <p className="text-gray-600 leading-relaxed">
-            We’re here to transform how people find spaces—making every search a story, every move a moment.
+            It’s more than a space—it’s your next chapter. We’re here to turn the search into something personal, something beautiful.
             </p>
 
           </div>
@@ -118,22 +118,22 @@ function TestPage() {
           {/* Card 1 */}
           <div className="bg-white p-8 rounded-2xl shadow-lg border border-gray-100">
             <div className="w-16 h-16 bg-blue-100 rounded-2xl flex items-center justify-center mb-6 transform transition-transform duration-300 hover:rotate-6">
-              <Shield className="w-8 h-8 text-blue-600" />
+              <CircleCheckBig className="w-8 h-8 text-blue-600" />
             </div>
-            <h3 className="text-2xl font-bold mb-4 text-black">Trust</h3>
+            <h3 className="text-2xl font-bold mb-4 text-black">Transparency</h3>
             <p className="text-gray-600 leading-relaxed text-lg">
-            Every profile is thoughtfully verified, so trust isn’t just promised—it’s built.
+              We believe in openness—what you see is exactly what you get, with no hidden surprises.
             </p>
           </div>
 
           {/* Card 2 */}
           <div className="bg-white p-8 rounded-2xl shadow-lg border border-gray-100">
             <div className="w-16 h-16 bg-blue-100 rounded-2xl flex items-center justify-center mb-6 transform transition-transform duration-300 hover:rotate-6">
-              <CircleCheckBig className="w-8 h-8 text-blue-600" />
+              <Shield className="w-8 h-8 text-blue-600" />
             </div>
-            <h3 className="text-2xl font-bold mb-4 text-black">Transparency</h3>
+            <h3 className="text-2xl font-bold mb-4 text-black">Trust</h3>
             <p className="text-gray-600 leading-relaxed text-lg">
-              We believe in openness—what you see is exactly what you get, with no hidden surprises.
+            Every profile is thoughtfully verified, so trust isn’t just promised—it’s built.
             </p>
           </div>
 

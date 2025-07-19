@@ -1,12 +1,12 @@
 const mockProperties = [
   {
     id: 1,
-    image: '/images/pexels-expect-best-79873-323780 (1).jpg', // Example: Ensure this path is correct in your public/images
-    alt: 'Luxury Villa in Pune',
+    image: '/images/SchmittleinFacade.jpeg', // Example: Ensure this path is correct in your public/images
+    alt: 'Luxury Villa in Mumbai',
     type: 'Villa',
     status: 'For Sale', // Changed 'For buy' to 'For Sale' for clarity
-    title: 'Spacious Luxury Villa in Koregaon Park',
-    location: 'Pune',
+    title: 'Spacious Luxury Villa in  Bandra',
+    location: 'Bandra, Mumbai',
     beds: 5,
     baths: 4,
     sqft: '6500',
@@ -15,7 +15,7 @@ const mockProperties = [
   },
   {
     id: 2,
-    image: '/images/image copy 6.png', // Placeholder: Add your own image to public/images
+    image: '/images/760x470xc.webp', // Placeholder: Add your own image to public/images
     alt: 'High-Rise Apartment in Mumbai',
     type: 'Apartment',
     status: 'For Sale',
@@ -29,7 +29,7 @@ const mockProperties = [
   },
   {
     id: 3,
-    image: '/images/image copy 10.png', // Placeholder: Add your own image to public/images
+    image: '/images/Towles-Court-in-Sarasota-Homes-for-Sale-4.jpg', // Placeholder: Add your own image to public/images
     alt: 'Modern Condo in Delhi',
     type: 'Condo',
     status: 'For Rent', // Changed to 'For Rent'
@@ -57,7 +57,7 @@ const mockProperties = [
   },
   {
     id: 5,
-    image: '/images/image copy 10.png', // Placeholder: Add your own image to public/images
+    image: '/images/GRADEBALDWIN15FINAL.1506068287.7175.webp', // Placeholder: Add your own image to public/images
     alt: 'Luxurious Penthouse in Pune',
     type: 'Penthouse',
     status: 'For Sale',
@@ -71,21 +71,21 @@ const mockProperties = [
   },
   {
     id: 6,
-    image: '/images/image copy 7.png', // Placeholder: Add your own image to public/images
-    alt: 'Compact Studio in Mumbai',
-    type: 'Studio',
+    image: '/images/Traditional-houses-in-Kerala-modern.jpg', // Placeholder: Add your own image to public/images
+    alt: 'Spacious House in Thrissur',
+    type: 'House',
     status: 'For Rent',
-    title: 'Compact Studio Apartment in Andheri',
-    location: 'Mumbai',
-    beds: 1,
-    baths: 1,
-    sqft: '450',
-    price: '25,000 / month',
+    title: 'House in Thrissur',
+    location: 'Thrissur',
+    beds: 7,
+    baths: 8,
+    sqft: '800',
+    price: '150,000 / month',
     purchaseType: 'Rent'
   },
   {
     id: 7,
-    image: '/images/image copy 8.png', // Placeholder: Add your own image to public/images
+    image: '/images/french-2.jpg', // Placeholder: Add your own image to public/images
     alt: 'Sprawling Farmhouse in Delhi',
     type: 'Farmhouse',
     status: 'For Sale',
@@ -99,7 +99,7 @@ const mockProperties = [
   },
   {
     id: 8,
-    image: '/images/image copy 6.png', // Placeholder: Add your own image to public/images
+    image: '/images/760x470xc (1).webp', // Placeholder: Add your own image to public/images
     alt: 'Contemporary Villa in Bangalore',
     type: 'Villa',
     status: 'For Sale',
@@ -113,7 +113,7 @@ const mockProperties = [
   },
   {
     id: 9,
-    image: '/images/image copy 9.png', // Placeholder: Add your own image to public/images
+    image: '/images/Raffles-Park-2.jpg', // Placeholder: Add your own image to public/images
     alt: 'Commercial Office Space in Pune',
     type: 'Office Space',
     status: 'For Rent',
@@ -127,7 +127,7 @@ const mockProperties = [
   },
   {
     id: 10,
-    image: '/images/image copy 10.png', // Placeholder: Add your own image to public/images
+    image: '/images/Free-Awesome-House-Map-in-Pakistan-for-Large-House-feature.webp', // Placeholder: Add your own image to public/images
     alt: 'Compact 2BHK in Mumbai',
     type: 'Apartment',
     status: 'For Sale',
@@ -141,12 +141,12 @@ const mockProperties = [
   },
   {
     id: 11,
-    image: '/images/image copy 8.png', // Placeholder: Add your own image to public/images
-    alt: 'Independent House in Delhi',
+    image: '/images/contemporary-houses-kerala.jpg', // Placeholder: Add your own image to public/images
+    alt: 'House in Kerala',
     type: 'Independent House',
     status: 'For Sale',
-    title: 'Spacious 3BHK Independent House in Dwarka',
-    location: 'Delhi',
+    title: '4BHK Independent House in Kerala',
+    location: 'Kerala',
     beds: 3,
     baths: 3,
     sqft: '2500',
@@ -155,12 +155,12 @@ const mockProperties = [
   },
   {
     id: 12,
-    image: '/images/image copy 9.png', // Placeholder: Add your own image to public/images
-    alt: 'Townhouse in Bangalore Gated Community',
+    image: '/images/images.jpeg', // Placeholder: Add your own image to public/images
+    alt: 'Townhouse in Mumbai Gated Community',
     type: 'Townhouse',
     status: 'For Sale',
-    title: 'Designer Townhouse in Gated Community',
-    location: 'Bangalore',
+    title: 'Sleek Living in a Gated Setting.',
+    location: 'Mumbai',
     beds: 4,
     baths: 4,
     sqft: '3800',
