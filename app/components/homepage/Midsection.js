@@ -17,10 +17,10 @@ const Midsection = () => {
             Trusted by 100+ companies
           </h1>
           <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-5 gap-6 items-center justify-center">
-            <img src="/images/image copy.png" alt="Company 4" className="h-10 mx-auto object-contain" />
+            <img src="/images/image copy.png" alt="Company 1" className="h-10 mx-auto object-contain" />
             <img src="/images/image copy 2.png" alt="Company 2" className="h-10 mx-auto object-contain" />
             <img src="/images/image.png" alt="Company 3" className="h-10 mx-auto object-contain" />
-            <img src="/images/image copy 4.png" alt="Company 5" className="h-9 mx-auto object-contain" />
+            <img src="/images/image copy 4.png" alt="Company 4" className="h-9 mx-auto object-contain" />
           </div>
         </div>
       </div>
@@ -43,7 +43,7 @@ const Midsection = () => {
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8 max-w-7xl mx-auto">
         {/* Card 1 */}
         <div className="bg-white rounded-xl shadow-lg p-6 flex flex-col items-center text-center hover:shadow-xl transition-shadow duration-300">
-          <ShieldCheck className="w-12 h-12 text-blue-500 mb-4" />
+          <ShieldCheck className="w-12 h-12 text-blue-500 mb-4"/>
           <h4 className="text-xl font-semibold text-gray-800 mb-2">Trusted Listings</h4>
           <p className="text-gray-600 mb-4">
             Every property is carefully inspected and fully verified to guarantee authenticity and peace of mind.
@@ -55,10 +55,10 @@ const Midsection = () => {
 
         {/* Card 2 */}
         <div className="bg-white rounded-xl shadow-lg p-6 flex flex-col items-center text-center hover:shadow-xl transition-shadow duration-300">
-          <MessageCircle className="w-12 h-12 text-green-500 mb-4" />
-          <h4 className="text-xl font-semibold text-gray-800 mb-2">Real-Time Support</h4>
+          <Users className="w-12 h-12 text-yellow-500 mb-4" />
+          <h4 className="text-xl font-semibold text-gray-800 mb-2">Family Focused</h4>
           <p className="text-gray-600 mb-4">
-            Instantly connect with expert agents through seamless real-time chat support for quick, reliable assistance.
+            Explore homes thoughtfully designed to suit your family's unique needs, lifestyle, and future aspirations.
           </p>
           <a href="#" className="text-blue-500 hover:text-blue-700 flex items-center gap-1.5 transition-colors">
             Learn more <ArrowRight className="w-4 h-4" />
@@ -66,11 +66,13 @@ const Midsection = () => {
         </div>
 
         {/* Card 3 */}
+        
+
         <div className="bg-white rounded-xl shadow-lg p-6 flex flex-col items-center text-center hover:shadow-xl transition-shadow duration-300">
-          <Users className="w-12 h-12 text-yellow-500 mb-4" />
-          <h4 className="text-xl font-semibold text-gray-800 mb-2">Family Focused</h4>
+          <MessageCircle className="w-12 h-12 text-green-500 mb-4" />
+          <h4 className="text-xl font-semibold text-gray-800 mb-2">Real-Time Support</h4>
           <p className="text-gray-600 mb-4">
-            Explore homes thoughtfully designed to suit your family's unique needs, lifestyle, and future aspirations.
+            Instantly connect with expert agents through seamless real-time chat support for quick, reliable assistance.
           </p>
           <a href="#" className="text-blue-500 hover:text-blue-700 flex items-center gap-1.5 transition-colors">
             Learn more <ArrowRight className="w-4 h-4" />

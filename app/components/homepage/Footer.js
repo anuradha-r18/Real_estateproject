@@ -21,13 +21,13 @@ function Footer() {
                         </p>
                         <div className="flex gap-4">
                             <a href="#" aria-label="Twitter" className="text-gray-500 hover:text-blue-500">
-                                <Twitter className="w-6 h-6" />
+                                <Twitter className="w-6 h-6"/>
                             </a>
                             <a href="#" aria-label="Instagram" className="text-gray-500 hover:text-pink-500">
-                                <Instagram className="w-6 h-6" />
+                                <Instagram className="w-6 h-6"/>
                             </a>
                             <a href="#" aria-label="Facebook" className="text-gray-500 hover:text-blue-700">
-                                <Facebook className="w-6 h-6" />
+                                <Facebook className="w-6 h-6"/>
                             </a>
                         </div>
                     </div>
