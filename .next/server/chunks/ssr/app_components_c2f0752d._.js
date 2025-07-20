@@ -1180,20 +1180,20 @@ function TestPage() {
                                     children: "Our Core Focus"
                                 }, void 0, false, {
                                     fileName: "[project]/app/components/About/TestPage.js",
-                                    lineNumber: 65,
+                                    lineNumber: 64,
                                     columnNumber: 11
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                     className: "w-24 h-1 bg-blue-600 mx-auto"
                                 }, void 0, false, {
                                     fileName: "[project]/app/components/About/TestPage.js",
-                                    lineNumber: 66,
+                                    lineNumber: 65,
                                     columnNumber: 11
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/app/components/About/TestPage.js",
-                            lineNumber: 64,
+                            lineNumber: 63,
                             columnNumber: 9
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1209,7 +1209,7 @@ function TestPage() {
                                                     className: "w-8 h-8 text-blue-600 mr-3"
                                                 }, void 0, false, {
                                                     fileName: "[project]/app/components/About/TestPage.js",
-                                                    lineNumber: 75,
+                                                    lineNumber: 74,
                                                     columnNumber: 15
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
@@ -1217,13 +1217,13 @@ function TestPage() {
                                                     children: "Our Mission"
                                                 }, void 0, false, {
                                                     fileName: "[project]/app/components/About/TestPage.js",
-                                                    lineNumber: 76,
+                                                    lineNumber: 75,
                                                     columnNumber: 15
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/app/components/About/TestPage.js",
-                                            lineNumber: 74,
+                                            lineNumber: 73,
                                             columnNumber: 13
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1231,13 +1231,13 @@ function TestPage() {
                                             children: "We’re here to flip the script on renting—no jargon, no games, just straight-up clarity. Our platform hands you the keys (literally and figuratively) with transparent info, tools that vibe with your flow, and help that actually helps. Because finding a place to live shouldn’t feel like a maze—it should feel like you’ve finally arrived"
                                         }, void 0, false, {
                                             fileName: "[project]/app/components/About/TestPage.js",
-                                            lineNumber: 78,
+                                            lineNumber: 77,
                                             columnNumber: 15
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/app/components/About/TestPage.js",
-                                    lineNumber: 73,
+                                    lineNumber: 72,
                                     columnNumber: 11
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1250,7 +1250,7 @@ function TestPage() {
                                                     className: "w-8 h-8 text-blue-600 mr-3"
                                                 }, void 0, false, {
                                                     fileName: "[project]/app/components/About/TestPage.js",
-                                                    lineNumber: 90,
+                                                    lineNumber: 88,
                                                     columnNumber: 15
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
@@ -1258,13 +1258,13 @@ function TestPage() {
                                                     children: "Our Vision"
                                                 }, void 0, false, {
                                                     fileName: "[project]/app/components/About/TestPage.js",
-                                                    lineNumber: 91,
+                                                    lineNumber: 89,
                                                     columnNumber: 15
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/app/components/About/TestPage.js",
-                                            lineNumber: 89,
+                                            lineNumber: 87,
                                             columnNumber: 13
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1272,19 +1272,19 @@ function TestPage() {
                                             children: "It’s more than a space—it’s your next chapter. We’re here to turn the search into something personal, something beautiful."
                                         }, void 0, false, {
                                             fileName: "[project]/app/components/About/TestPage.js",
-                                            lineNumber: 93,
+                                            lineNumber: 91,
                                             columnNumber: 13
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/app/components/About/TestPage.js",
-                                    lineNumber: 88,
+                                    lineNumber: 86,
                                     columnNumber: 11
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/app/components/About/TestPage.js",
-                            lineNumber: 70,
+                            lineNumber: 69,
                             columnNumber: 9
                         }, this)
                     ]
@@ -1311,14 +1311,14 @@ function TestPage() {
                                     children: "Our Values"
                                 }, void 0, false, {
                                     fileName: "[project]/app/components/About/TestPage.js",
-                                    lineNumber: 108,
+                                    lineNumber: 106,
                                     columnNumber: 11
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                     className: "w-24 h-1 bg-blue-600 mx-auto mb-6"
                                 }, void 0, false, {
                                     fileName: "[project]/app/components/About/TestPage.js",
-                                    lineNumber: 109,
+                                    lineNumber: 107,
                                     columnNumber: 11
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1326,13 +1326,13 @@ function TestPage() {
                                     children: "At TrueHabitat, our values are the foundation of every interaction and decision we make."
                                 }, void 0, false, {
                                     fileName: "[project]/app/components/About/TestPage.js",
-                                    lineNumber: 110,
+                                    lineNumber: 108,
                                     columnNumber: 11
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/app/components/About/TestPage.js",
-                            lineNumber: 107,
+                            lineNumber: 105,
                             columnNumber: 9
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1347,12 +1347,12 @@ function TestPage() {
                                                 className: "w-8 h-8 text-blue-600"
                                             }, void 0, false, {
                                                 fileName: "[project]/app/components/About/TestPage.js",
-                                                lineNumber: 121,
+                                                lineNumber: 119,
                                                 columnNumber: 15
                                             }, this)
                                         }, void 0, false, {
                                             fileName: "[project]/app/components/About/TestPage.js",
-                                            lineNumber: 120,
+                                            lineNumber: 118,
                                             columnNumber: 13
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
@@ -1360,7 +1360,7 @@ function TestPage() {
                                             children: "Transparency"
                                         }, void 0, false, {
                                             fileName: "[project]/app/components/About/TestPage.js",
-                                            lineNumber: 123,
+                                            lineNumber: 121,
                                             columnNumber: 13
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1368,13 +1368,13 @@ function TestPage() {
                                             children: "We believe in openness—what you see is exactly what you get, with no hidden surprises."
                                         }, void 0, false, {
                                             fileName: "[project]/app/components/About/TestPage.js",
-                                            lineNumber: 124,
+                                            lineNumber: 122,
                                             columnNumber: 13
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/app/components/About/TestPage.js",
-                                    lineNumber: 119,
+                                    lineNumber: 117,
                                     columnNumber: 11
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1386,12 +1386,12 @@ function TestPage() {
                                                 className: "w-8 h-8 text-blue-600"
                                             }, void 0, false, {
                                                 fileName: "[project]/app/components/About/TestPage.js",
-                                                lineNumber: 132,
+                                                lineNumber: 130,
                                                 columnNumber: 15
                                             }, this)
                                         }, void 0, false, {
                                             fileName: "[project]/app/components/About/TestPage.js",
-                                            lineNumber: 131,
+                                            lineNumber: 129,
                                             columnNumber: 13
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
@@ -1399,7 +1399,7 @@ function TestPage() {
                                             children: "Trust"
                                         }, void 0, false, {
                                             fileName: "[project]/app/components/About/TestPage.js",
-                                            lineNumber: 134,
+                                            lineNumber: 132,
                                             columnNumber: 13
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1407,13 +1407,13 @@ function TestPage() {
                                             children: "Every profile is thoughtfully verified, so trust isn’t just promised—it’s built."
                                         }, void 0, false, {
                                             fileName: "[project]/app/components/About/TestPage.js",
-                                            lineNumber: 135,
+                                            lineNumber: 133,
                                             columnNumber: 13
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/app/components/About/TestPage.js",
-                                    lineNumber: 130,
+                                    lineNumber: 128,
                                     columnNumber: 11
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1425,12 +1425,12 @@ function TestPage() {
                                                 className: "w-8 h-8 text-blue-600"
                                             }, void 0, false, {
                                                 fileName: "[project]/app/components/About/TestPage.js",
-                                                lineNumber: 143,
+                                                lineNumber: 141,
                                                 columnNumber: 15
                                             }, this)
                                         }, void 0, false, {
                                             fileName: "[project]/app/components/About/TestPage.js",
-                                            lineNumber: 142,
+                                            lineNumber: 140,
                                             columnNumber: 13
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
@@ -1438,7 +1438,7 @@ function TestPage() {
                                             children: "Efficiency"
                                         }, void 0, false, {
                                             fileName: "[project]/app/components/About/TestPage.js",
-                                            lineNumber: 145,
+                                            lineNumber: 143,
                                             columnNumber: 13
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1446,30 +1446,30 @@ function TestPage() {
                                             children: "From search to move-in, we simplify every step so you can find your ideal place faster and easier."
                                         }, void 0, false, {
                                             fileName: "[project]/app/components/About/TestPage.js",
-                                            lineNumber: 146,
+                                            lineNumber: 144,
                                             columnNumber: 13
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/app/components/About/TestPage.js",
-                                    lineNumber: 141,
+                                    lineNumber: 139,
                                     columnNumber: 11
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/app/components/About/TestPage.js",
-                            lineNumber: 116,
+                            lineNumber: 114,
                             columnNumber: 9
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/app/components/About/TestPage.js",
-                    lineNumber: 104,
+                    lineNumber: 102,
                     columnNumber: 7
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/app/components/About/TestPage.js",
-                lineNumber: 103,
+                lineNumber: 101,
                 columnNumber: 5
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
@@ -1485,14 +1485,14 @@ function TestPage() {
                                     children: "Meet Our Team"
                                 }, void 0, false, {
                                     fileName: "[project]/app/components/About/TestPage.js",
-                                    lineNumber: 162,
+                                    lineNumber: 160,
                                     columnNumber: 11
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                     className: "w-24 h-1 bg-blue-600 mx-auto mb-6"
                                 }, void 0, false, {
                                     fileName: "[project]/app/components/About/TestPage.js",
-                                    lineNumber: 163,
+                                    lineNumber: 161,
                                     columnNumber: 11
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1500,13 +1500,13 @@ function TestPage() {
                                     children: "The passionate individuals behind TrueHabitat's success"
                                 }, void 0, false, {
                                     fileName: "[project]/app/components/About/TestPage.js",
-                                    lineNumber: 164,
+                                    lineNumber: 162,
                                     columnNumber: 11
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/app/components/About/TestPage.js",
-                            lineNumber: 161,
+                            lineNumber: 159,
                             columnNumber: 9
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1523,7 +1523,7 @@ function TestPage() {
                                                 className: "w-24 h-24 md:w-32 md:h-32 rounded-full mb-3 md:mb-4 object-cover"
                                             }, void 0, false, {
                                                 fileName: "[project]/app/components/About/TestPage.js",
-                                                lineNumber: 175,
+                                                lineNumber: 173,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
@@ -1531,7 +1531,7 @@ function TestPage() {
                                                 children: "Anuradha Raghuwanshi"
                                             }, void 0, false, {
                                                 fileName: "[project]/app/components/About/TestPage.js",
-                                                lineNumber: 180,
+                                                lineNumber: 178,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1539,7 +1539,7 @@ function TestPage() {
                                                 children: "Founder & CEO"
                                             }, void 0, false, {
                                                 fileName: "[project]/app/components/About/TestPage.js",
-                                                lineNumber: 181,
+                                                lineNumber: 179,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1547,7 +1547,7 @@ function TestPage() {
                                                 children: "With 20+ years in real estate, Anuradha leads our vision of transforming property search."
                                             }, void 0, false, {
                                                 fileName: "[project]/app/components/About/TestPage.js",
-                                                lineNumber: 184,
+                                                lineNumber: 182,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1560,12 +1560,12 @@ function TestPage() {
                                                             className: "w-4 h-4 md:w-5 md:h-5"
                                                         }, void 0, false, {
                                                             fileName: "[project]/app/components/About/TestPage.js",
-                                                            lineNumber: 189,
+                                                            lineNumber: 187,
                                                             columnNumber: 21
                                                         }, this)
                                                     }, void 0, false, {
                                                         fileName: "[project]/app/components/About/TestPage.js",
-                                                        lineNumber: 188,
+                                                        lineNumber: 186,
                                                         columnNumber: 19
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
@@ -1575,12 +1575,12 @@ function TestPage() {
                                                             className: "w-4 h-4 md:w-5 md:h-5"
                                                         }, void 0, false, {
                                                             fileName: "[project]/app/components/About/TestPage.js",
-                                                            lineNumber: 192,
+                                                            lineNumber: 190,
                                                             columnNumber: 21
                                                         }, this)
                                                     }, void 0, false, {
                                                         fileName: "[project]/app/components/About/TestPage.js",
-                                                        lineNumber: 191,
+                                                        lineNumber: 189,
                                                         columnNumber: 19
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
@@ -1590,29 +1590,29 @@ function TestPage() {
                                                             className: "w-4 h-4 md:w-5 md:h-5"
                                                         }, void 0, false, {
                                                             fileName: "[project]/app/components/About/TestPage.js",
-                                                            lineNumber: 195,
+                                                            lineNumber: 193,
                                                             columnNumber: 21
                                                         }, this)
                                                     }, void 0, false, {
                                                         fileName: "[project]/app/components/About/TestPage.js",
-                                                        lineNumber: 194,
+                                                        lineNumber: 192,
                                                         columnNumber: 19
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/app/components/About/TestPage.js",
-                                                lineNumber: 187,
+                                                lineNumber: 185,
                                                 columnNumber: 17
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/app/components/About/TestPage.js",
-                                        lineNumber: 174,
+                                        lineNumber: 172,
                                         columnNumber: 15
                                     }, this)
                                 }, void 0, false, {
                                     fileName: "[project]/app/components/About/TestPage.js",
-                                    lineNumber: 173,
+                                    lineNumber: 171,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1626,7 +1626,7 @@ function TestPage() {
                                                 className: "w-24 h-24 md:w-32 md:h-32 rounded-full mb-3 md:mb-4 object-cover"
                                             }, void 0, false, {
                                                 fileName: "[project]/app/components/About/TestPage.js",
-                                                lineNumber: 204,
+                                                lineNumber: 202,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
@@ -1634,7 +1634,7 @@ function TestPage() {
                                                 children: "Ganga Raghuwanshi"
                                             }, void 0, false, {
                                                 fileName: "[project]/app/components/About/TestPage.js",
-                                                lineNumber: 209,
+                                                lineNumber: 207,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1642,7 +1642,7 @@ function TestPage() {
                                                 children: "Co-founder"
                                             }, void 0, false, {
                                                 fileName: "[project]/app/components/About/TestPage.js",
-                                                lineNumber: 210,
+                                                lineNumber: 208,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1650,7 +1650,7 @@ function TestPage() {
                                                 children: "Tech innovator driving our platform's cutting-edge solutions."
                                             }, void 0, false, {
                                                 fileName: "[project]/app/components/About/TestPage.js",
-                                                lineNumber: 213,
+                                                lineNumber: 211,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1663,12 +1663,12 @@ function TestPage() {
                                                             className: "w-4 h-4 md:w-5 md:h-5"
                                                         }, void 0, false, {
                                                             fileName: "[project]/app/components/About/TestPage.js",
-                                                            lineNumber: 218,
+                                                            lineNumber: 216,
                                                             columnNumber: 21
                                                         }, this)
                                                     }, void 0, false, {
                                                         fileName: "[project]/app/components/About/TestPage.js",
-                                                        lineNumber: 217,
+                                                        lineNumber: 215,
                                                         columnNumber: 19
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
@@ -1678,46 +1678,46 @@ function TestPage() {
                                                             className: "w-4 h-4 md:w-5 md:h-5"
                                                         }, void 0, false, {
                                                             fileName: "[project]/app/components/About/TestPage.js",
-                                                            lineNumber: 221,
+                                                            lineNumber: 219,
                                                             columnNumber: 21
                                                         }, this)
                                                     }, void 0, false, {
                                                         fileName: "[project]/app/components/About/TestPage.js",
-                                                        lineNumber: 220,
+                                                        lineNumber: 218,
                                                         columnNumber: 19
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/app/components/About/TestPage.js",
-                                                lineNumber: 216,
+                                                lineNumber: 214,
                                                 columnNumber: 17
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/app/components/About/TestPage.js",
-                                        lineNumber: 203,
+                                        lineNumber: 201,
                                         columnNumber: 15
                                     }, this)
                                 }, void 0, false, {
                                     fileName: "[project]/app/components/About/TestPage.js",
-                                    lineNumber: 202,
+                                    lineNumber: 200,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/app/components/About/TestPage.js",
-                            lineNumber: 170,
+                            lineNumber: 168,
                             columnNumber: 9
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/app/components/About/TestPage.js",
-                    lineNumber: 158,
+                    lineNumber: 156,
                     columnNumber: 7
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/app/components/About/TestPage.js",
-                lineNumber: 157,
+                lineNumber: 155,
                 columnNumber: 5
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
@@ -1733,14 +1733,14 @@ function TestPage() {
                                     children: "Why Choose TrueHabitat?"
                                 }, void 0, false, {
                                     fileName: "[project]/app/components/About/TestPage.js",
-                                    lineNumber: 235,
+                                    lineNumber: 233,
                                     columnNumber: 11
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                     className: "w-24 h-1 bg-blue-600 mx-auto mb-6"
                                 }, void 0, false, {
                                     fileName: "[project]/app/components/About/TestPage.js",
-                                    lineNumber: 236,
+                                    lineNumber: 234,
                                     columnNumber: 11
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1748,13 +1748,13 @@ function TestPage() {
                                     children: "Discover a smarter, faster, and more reliable way to find your next home. At UrbHaven, we combine technology, trust, and transparency to deliver an unmatched property experience."
                                 }, void 0, false, {
                                     fileName: "[project]/app/components/About/TestPage.js",
-                                    lineNumber: 237,
+                                    lineNumber: 235,
                                     columnNumber: 11
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/app/components/About/TestPage.js",
-                            lineNumber: 234,
+                            lineNumber: 232,
                             columnNumber: 9
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1770,12 +1770,12 @@ function TestPage() {
                                                 className: "w-8 h-8 text-blue-600"
                                             }, void 0, false, {
                                                 fileName: "[project]/app/components/About/TestPage.js",
-                                                lineNumber: 252,
+                                                lineNumber: 250,
                                                 columnNumber: 19
                                             }, this)
                                         }, void 0, false, {
                                             fileName: "[project]/app/components/About/TestPage.js",
-                                            lineNumber: 251,
+                                            lineNumber: 249,
                                             columnNumber: 17
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
@@ -1783,7 +1783,7 @@ function TestPage() {
                                             children: feature.title
                                         }, void 0, false, {
                                             fileName: "[project]/app/components/About/TestPage.js",
-                                            lineNumber: 254,
+                                            lineNumber: 252,
                                             columnNumber: 17
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1791,35 +1791,35 @@ function TestPage() {
                                             children: feature.description
                                         }, void 0, false, {
                                             fileName: "[project]/app/components/About/TestPage.js",
-                                            lineNumber: 255,
+                                            lineNumber: 253,
                                             columnNumber: 17
                                         }, this)
                                     ]
                                 }, index, true, {
                                     fileName: "[project]/app/components/About/TestPage.js",
-                                    lineNumber: 247,
+                                    lineNumber: 245,
                                     columnNumber: 15
                                 }, this);
                             })
                         }, void 0, false, {
                             fileName: "[project]/app/components/About/TestPage.js",
-                            lineNumber: 243,
+                            lineNumber: 241,
                             columnNumber: 9
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/app/components/About/TestPage.js",
-                    lineNumber: 233,
+                    lineNumber: 231,
                     columnNumber: 7
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/app/components/About/TestPage.js",
-                lineNumber: 232,
+                lineNumber: 230,
                 columnNumber: 5
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$app$2f$components$2f$homepage$2f$Footer$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {}, void 0, false, {
                 fileName: "[project]/app/components/About/TestPage.js",
-                lineNumber: 263,
+                lineNumber: 261,
                 columnNumber: 5
             }, this)
         ]

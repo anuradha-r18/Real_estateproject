@@ -35,14 +35,14 @@ function TestPage() {
       <Navbar />
       
       <div className="relative h-[80vh] flex items-center justify-center overflow-hidden">
-      {/* Background Gradient */}
+      {/*background gradient*/}
       <div className="absolute inset-0 z-0 opacity-60">
       <img
         src="/images/1466101947835.webp"
         className="w-full h-full object-cover"/>
       </div>
 
-      {/* Content */}
+      {/*content*/}
       <div className="relative text-center text-white px-4 max-w-5xl mx-auto z-10">
       <h1 className="text-4xl sm:text-5xl md:text-6xl font-extrabold mb-6 sm:mb-8 leading-tight">
         Building Your Future,
@@ -59,7 +59,6 @@ function TestPage() {
 
     <section className="py-24 bg-gradient-to-b from-white to-gray-50">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        
         {/* Section Header */}
         <div className="text-center mb-16">
           <h2 className="text-4xl font-bold mb-4 text-black">Our Core Focus</h2>
@@ -69,7 +68,7 @@ function TestPage() {
         {/* Cards */}
         <div className="grid md:grid-cols-2 gap-12">
           
-          {/* Card 1 */}
+
           <div className="bg-white rounded-2xl p-8 shadow-lg hover:shadow-xl transition-shadow duration-300">
             <div className="flex items-center mb-6">
               <Target className="w-8 h-8 text-blue-600 mr-3" />
@@ -84,7 +83,6 @@ function TestPage() {
 
           </div>
 
-          {/* Card 2 */}
           <div className="bg-white rounded-2xl p-8 shadow-lg hover:shadow-xl transition-shadow duration-300">
             <div className="flex items-center mb-6">
               <Eye className="w-8 h-8 text-blue-600 mr-3" />
@@ -166,10 +164,10 @@ function TestPage() {
           </p>
         </div>
 
-        {/* Team Members */}
+        {/* Team members */}
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-5xl mx-auto">
 
-          {/* Member 1 */}
+          {/*anuradha*/}
             <div className="bg-blue-100 p-4 md:p-6 rounded-xl shadow-sm w-full max-w-sm mx-auto">
               <div className="flex flex-col items-center">
                 <img
@@ -179,7 +177,7 @@ function TestPage() {
                 />
                 <h3 className="text-lg md:text-xl font-semibold text-center mb-1 text-black">Anuradha Raghuwanshi</h3>
                 <p className="text-blue-600 text-xs md:text-sm text-center mb-2 md:mb-3">
-                  Founder &amp; CEO
+                  Founder & CEO
                 </p>
                 <p className="text-gray-600 text-sm md:text-base text-center mb-3 md:mb-4">
                   With 20+ years in real estate, Anuradha leads our vision of transforming property search.
@@ -198,7 +196,7 @@ function TestPage() {
               </div>
             </div>
 
-          {/* Member 2 */}
+          {/*ganga*/}
             <div className="bg-blue-100 p-4 md:p-6 rounded-xl shadow-sm w-full max-w-sm mx-auto">
               <div className="flex flex-col items-center">
                 <img
@@ -260,10 +258,9 @@ function TestPage() {
       </div>
     </section>
 
-    <Footer />
+    <Footer/>
 
       </div>
   );
 }
-
 export default TestPage;
