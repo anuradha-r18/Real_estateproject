@@ -47,7 +47,7 @@ export default function FeaturedProperties() {
           price: '3,00,00,000',
         },
         {
-          image: '/images/Inspiring Modern City Home _ Clean White Exterior Trends 🏠✨.jpeg',
+          image:'/images/Inspiring Modern City Home _ Clean White Exterior Trends 🏠✨.jpeg',
           alt: 'Apartment in Bangalore',
           type: 'Apartment',
           status: 'For buy',

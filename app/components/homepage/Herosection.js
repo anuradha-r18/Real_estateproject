@@ -37,7 +37,7 @@ export default function HeaderAndHero() {
       <div className="absolute inset-0 bg-black/60 z-[-1]" />
 
       {/* Header */}
-      <Navbar />
+      <Navbar/>
 
       {/* Hero Section */}
       <div className="relative w-full min-h-[90vh] flex items-center justify-center px-4 md:px-8 text-center z-10">

@@ -34,7 +34,7 @@ function Footer() {
 
                     
                     <div>
-                        <h4 className="text-lg font-semibold text-white-500 mb-4">Quick Links</h4>
+                        <h4 className="text-lg font-semibold text-white mb-4">Quick Links</h4>
                         <ul className="space-y-2">
                             <li>
                                 <a href="#" className="text-gray-600 hover:text-blue-500">
@@ -91,7 +91,7 @@ function Footer() {
                         </ul>
                     </div>
 
-                    {/* Contact Us */}
+                    
                     <div>
                         <h4 className="text-lg font-semibold text-white-500 mb-4">Contact Us</h4>
                         <p className="text-gray-600">
@@ -105,7 +105,7 @@ function Footer() {
                         </p>
                     </div>
 
-                    {/* Stay Updated */}
+                    
                     <div>
                         <h4 className="text-lg font-semibold text-white-500 mb-4">Stay Updated</h4>
                         <p className="text-gray-600 mb-4">
@@ -129,7 +129,7 @@ function Footer() {
                     </div>
                 </div>
 
-                {/* Bottom Row */}
+                
                 <div className="flex flex-col md:flex-row items-center justify-between mt-8 text-sm text-gray-500">
                     <p>© 2025 TrueHabitat. All Rights Reserved.</p>
                     <a href="#" className="text-blue-500 hover:text-blue-700 mt-4 md:mt-0 flex items-center gap-2">

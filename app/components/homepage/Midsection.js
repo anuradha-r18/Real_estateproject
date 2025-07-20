@@ -10,7 +10,7 @@ import {
 const Midsection = () => {
   return (
     <section className="bg-gray-50 py-16 px-4 sm:px-6 lg:px-8 pb-26">
-      {/* Trusted by Companies */}
+      {/*companies*/}
       <div className="text-center mb-26">
         <div className="bg-white rounded-xl shadow-lg px-6 py-10 sm:p-12 mx-auto max-w-6xl">
           <h1 className="text-xl font-bold text-gray-800 mb-6">
@@ -25,7 +25,7 @@ const Midsection = () => {
         </div>
       </div>
 
-      {/* Our Strengths */}
+      {/*strength*/}
       <div className="text-center mb-16">
         <span className="bg-blue-50 text-blue-600 px-4 py-1.5 rounded-full text-sm font-medium tracking-wide uppercase">
           Our Strengths
